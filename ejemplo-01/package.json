@@ -1,7 +1,8 @@
 {
   "name": "ejemplo-01",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ejemplo 1 del Taller Docker 101",
+  "repository": "https://github.com/padiazg/taller-docker-101",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
